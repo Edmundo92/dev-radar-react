@@ -1,0 +1,25 @@
+{
+  "devs": [
+    {
+      "github_username": "Edmundo Nascimento",
+      "techs": "React, React Native, Rust, Javascript",
+      "latitude": -28.702007599999998,
+      "longitude": -49.4042665,
+      "id": 1
+    },
+    {
+      "github_username": "Ana",
+      "techs": "Rust, PHP, Ruby",
+      "latitude": -28.7019801,
+      "longitude": -49.4043317,
+      "id": 2
+    },
+    {
+      "github_username": "Edvaldo",
+      "techs": "React, React Native, Rust, Javascript",
+      "latitude": -28.7019801,
+      "longitude": -49.4043317,
+      "id": 3
+    }
+  ]
+}
